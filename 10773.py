@@ -11,4 +11,4 @@ ans=0
 for i in range(len(arr)):
 	ans += arr[i]
 
-print(ans)
+print(f"\nanswer is : {ans}\n")
